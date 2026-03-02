@@ -83,7 +83,7 @@ export default function Experience() {
                             className="mt-16 flex justify-center md:justify-start"
                         >
                             <a
-                                href="/Mohammed_Taher_CV.pdf"
+                                href="Mohammed_Taher_CV.pdf"
                                 download="Mohammed_Taher_CV.pdf"
                                 className="group relative inline-flex items-center justify-center px-8 py-4 bg-transparent border border-ink text-ink font-medium uppercase tracking-widest text-sm overflow-hidden"
                             >

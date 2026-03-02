@@ -57,7 +57,7 @@ export default function Home() {
               className="w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 xl:w-96 xl:h-96 rounded-full overflow-hidden border-4 border-surface shadow-2xl shrink-0"
             >
               <img
-                src="/profile.jpg"
+                src="profile.jpg"
                 alt="Mohammed Taher"
                 className="w-full h-full object-cover"
               />
